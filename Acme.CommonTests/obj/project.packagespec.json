@@ -1,0 +1,65 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/home/rcart/RiderProjects/ACM/Acme.CommonTests/Acme.CommonTests.csproj",
+    "projectName": "Acme.CommonTests",
+    "projectPath": "/home/rcart/RiderProjects/ACM/Acme.CommonTests/Acme.CommonTests.csproj",
+    "outputPath": "/home/rcart/RiderProjects/ACM/Acme.CommonTests/obj/",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.2"
+    ],
+    "sources": {
+      "https://api.nuget.org/v3/index.json": {}
+    },
+    "frameworks": {
+      "netcoreapp2.2": {
+        "projectReferences": {
+          "/home/rcart/RiderProjects/ACM/ACM.BL/ACM.BL.csproj": {
+            "projectPath": "/home/rcart/RiderProjects/ACM/ACM.BL/ACM.BL.csproj"
+          },
+          "/home/rcart/RiderProjects/ACM/Acme.Common/Acme.Common.csproj": {
+            "projectPath": "/home/rcart/RiderProjects/ACM/Acme.Common/Acme.Common.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.2": {
+      "dependencies": {
+        "Microsoft.NET.Test.Sdk": {
+          "target": "Package",
+          "version": "[15.9.0, )"
+        },
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.2.0, )",
+          "autoReferenced": true
+        },
+        "NUnit3TestAdapter": {
+          "target": "Package",
+          "version": "[3.11.0, )"
+        },
+        "nunit": {
+          "target": "Package",
+          "version": "[3.11.0, )"
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

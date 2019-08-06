@@ -1,0 +1,17 @@
+/home/rcart/RiderProjects/ACM/ACM.BL.Test/bin/Debug/netcoreapp2.2/NUnit3.TestAdapter.dll
+/home/rcart/RiderProjects/ACM/ACM.BL.Test/bin/Debug/netcoreapp2.2/NUnit3.TestAdapter.pdb
+/home/rcart/RiderProjects/ACM/ACM.BL.Test/bin/Debug/netcoreapp2.2/nunit.engine.netstandard.dll
+/home/rcart/RiderProjects/ACM/ACM.BL.Test/bin/Debug/netcoreapp2.2/ACM.BL.Test.deps.json
+/home/rcart/RiderProjects/ACM/ACM.BL.Test/bin/Debug/netcoreapp2.2/ACM.BL.Test.runtimeconfig.json
+/home/rcart/RiderProjects/ACM/ACM.BL.Test/bin/Debug/netcoreapp2.2/ACM.BL.Test.runtimeconfig.dev.json
+/home/rcart/RiderProjects/ACM/ACM.BL.Test/bin/Debug/netcoreapp2.2/ACM.BL.Test.dll
+/home/rcart/RiderProjects/ACM/ACM.BL.Test/bin/Debug/netcoreapp2.2/ACM.BL.Test.pdb
+/home/rcart/RiderProjects/ACM/ACM.BL.Test/obj/Debug/netcoreapp2.2/ACM.BL.Test.csprojAssemblyReference.cache
+/home/rcart/RiderProjects/ACM/ACM.BL.Test/obj/Debug/netcoreapp2.2/ACM.BL.Test.csproj.CoreCompileInputs.cache
+/home/rcart/RiderProjects/ACM/ACM.BL.Test/obj/Debug/netcoreapp2.2/ACM.BL.Test.AssemblyInfoInputs.cache
+/home/rcart/RiderProjects/ACM/ACM.BL.Test/obj/Debug/netcoreapp2.2/ACM.BL.Test.AssemblyInfo.cs
+/home/rcart/RiderProjects/ACM/ACM.BL.Test/obj/Debug/netcoreapp2.2/ACM.BL.Test.dll
+/home/rcart/RiderProjects/ACM/ACM.BL.Test/obj/Debug/netcoreapp2.2/ACM.BL.Test.pdb
+/home/rcart/RiderProjects/ACM/ACM.BL.Test/bin/Debug/netcoreapp2.2/ACM.BL.dll
+/home/rcart/RiderProjects/ACM/ACM.BL.Test/bin/Debug/netcoreapp2.2/ACM.BL.pdb
+/home/rcart/RiderProjects/ACM/ACM.BL.Test/obj/Debug/netcoreapp2.2/ACM.BL.Test.csproj.CopyComplete

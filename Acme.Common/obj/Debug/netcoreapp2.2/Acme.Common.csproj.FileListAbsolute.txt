@@ -1,0 +1,9 @@
+/home/rcart/RiderProjects/ACM/Acme.Common/bin/Debug/netcoreapp2.2/Acme.Common.deps.json
+/home/rcart/RiderProjects/ACM/Acme.Common/bin/Debug/netcoreapp2.2/Acme.Common.dll
+/home/rcart/RiderProjects/ACM/Acme.Common/bin/Debug/netcoreapp2.2/Acme.Common.pdb
+/home/rcart/RiderProjects/ACM/Acme.Common/obj/Debug/netcoreapp2.2/Acme.Common.csprojAssemblyReference.cache
+/home/rcart/RiderProjects/ACM/Acme.Common/obj/Debug/netcoreapp2.2/Acme.Common.csproj.CoreCompileInputs.cache
+/home/rcart/RiderProjects/ACM/Acme.Common/obj/Debug/netcoreapp2.2/Acme.Common.AssemblyInfoInputs.cache
+/home/rcart/RiderProjects/ACM/Acme.Common/obj/Debug/netcoreapp2.2/Acme.Common.AssemblyInfo.cs
+/home/rcart/RiderProjects/ACM/Acme.Common/obj/Debug/netcoreapp2.2/Acme.Common.dll
+/home/rcart/RiderProjects/ACM/Acme.Common/obj/Debug/netcoreapp2.2/Acme.Common.pdb

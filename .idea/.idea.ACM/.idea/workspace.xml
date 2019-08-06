@@ -1,0 +1,555 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/ACM.BL/Customer.cs" line="10" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="915b579e-20af-4f10-9c66-6560bc19e11c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.ACM/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.ACM/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ACM.BL.Test/CustomerRepositoryTest.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ACM.BL.Test/CustomerTest.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ACM.BL.Test/OrderRepositoryTest.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ACM.BL.Test/ProductRepositoryTest.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ACM.BL/ACM.BL.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ACM.BL/Address.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ACM.BL/AddressRepository.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ACM.BL/Customer.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ACM.BL/CustomerRepository.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ACM.BL/EntityBase.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ACM.BL/Order.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ACM.BL/OrderItem.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ACM.BL/OrderRepository.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ACM.BL/Product.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ACM.BL/ProductRepository.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ACM.sln" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Acme.Common/ILoggable.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Acme.Common/LoggingService.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Acme.CommonTests/LoggingServiceTest.cs" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="ACM" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Acme.Common/StringHandler.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ACM.BL/AddressRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ACM.BL.Test/OrderRepositoryTest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ACM.BL/Customer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ACM.BL/OrderRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ACM.BL.Test/ProductRepositoryTest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ACM.BL/ProductRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ACM.BL.Test/CustomerTest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ACM.BL.Test/CustomerRepositoryTest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Acme.CommonTests/LoggingServiceTest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Acme.Common/ILoggable.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Acme.Common/LoggingService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ACM.BL/CustomerRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ACM.BL/Address.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ACM.BL/OrderItem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ACM.BL/Order.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ACM.BL/Product.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Acme.CommonTests/StringHandlerTest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ACM.BL/EntityBase.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/ACM.BL.Test/UnitTest1.cs" />
+        <option value="$PROJECT_DIR$/ACM.BL/OrderItem.cs" />
+        <option value="$PROJECT_DIR$/ACM.BL/Address.cs" />
+        <option value="$PROJECT_DIR$/ACM.BL.Test/CustomerTest.cs" />
+        <option value="$PROJECT_DIR$/ACM.BL/OrderRepository.cs" />
+        <option value="$PROJECT_DIR$/ACM.BL.Test/OrderRepositoryTest.cs" />
+        <option value="$PROJECT_DIR$/ACM.BL/AddressRepository.cs" />
+        <option value="$PROJECT_DIR$/ACM.BL/CustomerRepository.cs" />
+        <option value="$PROJECT_DIR$/ACM.BL.Test/CustomerRepositoryTest.cs" />
+        <option value="$PROJECT_DIR$/ACM.BL/EntityBase.cs" />
+        <option value="$PROJECT_DIR$/ACM.BL/ProductRepository.cs" />
+        <option value="$PROJECT_DIR$/ACM.BL.Test/ProductRepositoryTest.cs" />
+        <option value="$PROJECT_DIR$/Acme.Common/Class1.cs" />
+        <option value="$PROJECT_DIR$/Acme.CommonTests/UnitTest1.cs" />
+        <option value="$PROJECT_DIR$/Acme.Common/StringHandler.cs" />
+        <option value="$PROJECT_DIR$/Acme.CommonTests/StringHandlerTest.cs" />
+        <option value="$PROJECT_DIR$/Acme.Common/ILoggable.cs" />
+        <option value="$PROJECT_DIR$/ACM.BL/Product.cs" />
+        <option value="$PROJECT_DIR$/ACM.BL/Order.cs" />
+        <option value="$PROJECT_DIR$/Acme.Common/LoggingService.cs" />
+        <option value="$PROJECT_DIR$/ACM.BL/Customer.cs" />
+        <option value="$PROJECT_DIR$/Acme.CommonTests/LoggingServiceTest.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="y" value="16" />
+    <option name="width" value="1366" />
+    <option name="height" value="752" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="FileSystemExplorer" />
+      <pane id="AssemblyExplorer" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="ACM" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="ACM" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Test" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="ACM" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Test" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Acme.CommonTests" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="ACM" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="ACM.BL" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="ACM" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Acme.Common" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-all-files" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.maddyhome.idea.vim.ui.VimEmulationConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="915b579e-20af-4f10-9c66-6560bc19e11c" name="Default Changelist" comment="" />
+      <created>1564431527046</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1564431527046</updated>
+      <workItem from="1564431529578" duration="8965000" />
+      <workItem from="1564527365934" duration="2939000" />
+      <workItem from="1564530395263" duration="1116000" />
+      <workItem from="1564587962291" duration="12132000" />
+      <workItem from="1564677887275" duration="4663000" />
+      <workItem from="1564688372777" duration="3700000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="33515000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="16" width="1366" height="752" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4988662" visible="true" weight="0.17296073" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" sideWeight="0.5011338" side_tool="true" weight="0.24773414" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" weight="0.32978722" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Database Changes" order="10" />
+      <window_info anchor="bottom" id="Unit Tests" order="11" sideWeight="0.49848944" weight="0.387538" />
+      <window_info anchor="bottom" id="Terminal" order="12" />
+      <window_info anchor="bottom" id="Event Log" order="13" sideWeight="0.50151056" side_tool="true" weight="0.31458968" />
+      <window_info anchor="bottom" id="Build" order="14" weight="0.32978722" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="5" weight="0.326284" />
+    </layout>
+  </component>
+  <component name="UnitTestsCoverage.Settings">
+    <option name="coveragePercentColumnWidth" value="150" />
+    <option name="sortOrder" value="DESCENDING" />
+    <option name="sortedColumn" value="1" />
+    <option name="symbolColumnWidth" value="140" />
+    <coverage-tree-state>
+      <expand>
+        <path>
+          <item name="rootNode" type="c53c71d1:RiderDotCoverCoverageTreeModel$RootNode" />
+          <item name="1" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+        </path>
+      </expand>
+      <select />
+    </coverage-tree-state>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/ACM.BL/OrderItem.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="35" column="26" selection-start-line="35" selection-start-column="26" selection-end-line="35" selection-end-column="26" />
+          <folding>
+            <marker date="1564528489065" expanded="true" signature="16:835" ph="{...}" />
+            <marker date="1564528489065" expanded="true" signature="45:833" ph="{...}" />
+            <marker date="1564528489065" expanded="true" signature="78:111" ph="{...}" />
+            <marker date="1564528489065" expanded="true" signature="154:213" ph="{...}" />
+            <marker date="1564528489065" expanded="true" signature="433:489" ph="{...}" />
+            <marker date="1564528489065" expanded="true" signature="517:562" ph="{...}" />
+            <marker date="1564528489065" expanded="true" signature="594:827" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ACM.BL.Test/CustomerTest.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1564530850505" expanded="true" signature="45:1991" ph="{...}" />
+            <marker date="1564530850505" expanded="true" signature="97:1989" ph="{...}" />
+            <marker date="1564530850505" expanded="true" signature="158:410" ph="{...}" />
+            <marker date="1564530850505" expanded="true" signature="470:781" ph="{...}" />
+            <marker date="1564530850505" expanded="true" signature="842:1230" ph="{...}" />
+            <marker date="1564530850505" expanded="true" signature="1282:1616" ph="{...}" />
+            <marker date="1564530850505" expanded="true" signature="1669:1983" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ACM.BL/OrderRepository.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <marker date="1564604390276" expanded="true" signature="31:717" ph="{...}" />
+            <marker date="1564604390276" expanded="true" signature="66:715" ph="{...}" />
+            <marker date="1564604390276" expanded="true" signature="115:603" ph="{...}" />
+            <marker date="1564604390276" expanded="true" signature="197:315" ph="/* Here I should cal the backend to retrieve the actual Order details ... */" />
+            <marker date="1564604390276" expanded="true" signature="346:566" ph="{...}" />
+            <marker date="1564604390276" expanded="true" signature="631:709" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ACM.BL.Test/OrderRepositoryTest.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+          <folding>
+            <marker date="1564604699388" expanded="true" signature="6:36" ph="..." />
+            <marker date="1564604699388" expanded="true" signature="59:677" ph="{...}" />
+            <marker date="1564604699388" expanded="true" signature="116:675" ph="{...}" />
+            <marker date="1564604699388" expanded="true" signature="182:669" ph="{...}" />
+            <marker date="1564604699388" expanded="true" signature="326:469" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ACM.BL/AddressRepository.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="263">
+          <caret line="47" selection-start-line="47" selection-end-line="47" />
+          <folding>
+            <marker date="1564609407324" expanded="true" signature="6:59" ph="..." />
+            <marker date="1564609407324" expanded="true" signature="77:2022" ph="{...}" />
+            <marker date="1564609407324" expanded="true" signature="114:2020" ph="{...}" />
+            <marker date="1564609407324" expanded="true" signature="167:849" ph="{...}" />
+            <marker date="1564609407324" expanded="true" signature="312:430" ph="/* Here should go the backend calls ... */" />
+            <marker date="1564609407324" expanded="true" signature="462:810" ph="{...}" />
+            <marker date="1564609407324" expanded="true" signature="923:1843" ph="{...}" />
+            <marker date="1564609407324" expanded="true" signature="946:1049" ph="/* This code will get all customer's addresses ... */" />
+            <marker date="1564609407324" expanded="true" signature="1158:1436" ph="{...}" />
+            <marker date="1564609407324" expanded="true" signature="1525:1762" ph="{...}" />
+            <marker date="1564609407324" expanded="true" signature="1886:2014" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ACM.BL.Test/CustomerRepositoryTest.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="48" selection-start-line="16" selection-start-column="48" selection-end-line="16" selection-end-column="48" />
+          <folding>
+            <marker date="1564610561476" expanded="true" signature="6:56" ph="..." />
+            <marker date="1564610561476" expanded="true" signature="79:3297" ph="{...}" />
+            <marker date="1564610561476" expanded="true" signature="139:3295" ph="{...}" />
+            <marker date="1564610561476" expanded="true" signature="196:897" ph="{...}" />
+            <marker date="1564610561476" expanded="true" signature="362:501" ph="{...}" />
+            <marker date="1564610561476" expanded="true" signature="963:3289" ph="{...}" />
+            <marker date="1564610561476" expanded="true" signature="1115:2087" ph="{...}" />
+            <marker date="1564610561476" expanded="true" signature="1308:2073" ph="{...}" />
+            <marker date="1564610561476" expanded="true" signature="1364:1706" ph="{...}" />
+            <marker date="1564610561476" expanded="true" signature="1762:2055" ph="{...}" />
+            <marker date="1564610561476" expanded="true" signature="2587:3279" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ACM.BL/ProductRepository.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="83">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <marker date="1564614362568" expanded="true" signature="16:1296" ph="{...}" />
+            <marker date="1564614362568" expanded="true" signature="53:1294" ph="{...}" />
+            <marker date="1564614362568" expanded="true" signature="106:703" ph="{...}" />
+            <marker date="1564614362568" expanded="true" signature="251:427" ph="/* Code that retrieves the defined product ... */" />
+            <marker date="1564614362568" expanded="true" signature="459:664" ph="{...}" />
+            <marker date="1564614362568" expanded="true" signature="746:1288" ph="{...}" />
+            <marker date="1564614362568" expanded="true" signature="824:1249" ph="{...}" />
+            <marker date="1564614362568" expanded="true" signature="875:1141" ph="{...}" />
+            <marker date="1564614362568" expanded="true" signature="932:1015" ph="{...}" />
+            <marker date="1564614362568" expanded="true" signature="1040:1123" ph="{...}" />
+            <marker date="1564614362568" expanded="true" signature="1162:1235" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ACM.BL/Address.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="19" column="33" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
+          <folding>
+            <marker date="1564529706909" expanded="true" signature="16:719" ph="{...}" />
+            <marker date="1564529706909" expanded="true" signature="43:717" ph="{...}" />
+            <marker date="1564529706909" expanded="true" signature="74:94" ph="{...}" />
+            <marker date="1564529706909" expanded="true" signature="133:188" ph="{...}" />
+            <marker date="1564529706909" expanded="true" signature="578:711" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ACM.BL.Test/ACM.BL.Test.csproj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="15" selection-start-line="16" selection-start-column="15" selection-end-line="16" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ACM.BL.Test/ProductRepositoryTest.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+          <folding>
+            <marker date="1564614801780" expanded="true" signature="45:2045" ph="{...}" />
+            <marker date="1564614801780" expanded="true" signature="104:2043" ph="{...}" />
+            <marker date="1564614801780" expanded="true" signature="160:840" ph="{...}" />
+            <marker date="1564614801780" expanded="true" signature="309:477" ph="{...}" />
+            <marker date="1564614801780" expanded="true" signature="892:1436" ph="{...}" />
+            <marker date="1564614801780" expanded="true" signature="1048:1250" ph="{...}" />
+            <marker date="1564614801780" expanded="true" signature="1494:2037" ph="{...}" />
+            <marker date="1564614801780" expanded="true" signature="1650:1850" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Acme.CommonTests/StringHandlerTest.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="13" column="46" selection-start-line="13" selection-start-column="46" selection-end-line="13" selection-end-column="46" />
+          <folding>
+            <marker date="1564682279680" expanded="true" signature="6:41" ph="..." />
+            <marker date="1564682279680" expanded="true" signature="69:857" ph="{...}" />
+            <marker date="1564682279680" expanded="true" signature="124:855" ph="{...}" />
+            <marker date="1564682279680" expanded="true" signature="189:488" ph="{...}" />
+            <marker date="1564682279680" expanded="true" signature="549:849" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Acme.Common/ILoggable.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+          <folding>
+            <marker date="1564690418136" expanded="true" signature="21:90" ph="{...}" />
+            <marker date="1564690418136" expanded="true" signature="54:88" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ACM.BL/Product.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="21" column="8" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
+          <folding>
+            <marker date="1564690603340" expanded="true" signature="6:36" ph="..." />
+            <marker date="1564690603340" expanded="true" signature="54:1055" ph="{...}" />
+            <marker date="1564690603340" expanded="true" signature="105:1053" ph="{...}" />
+            <marker date="1564690603340" expanded="true" signature="136:169" ph="{...}" />
+            <marker date="1564690603340" expanded="true" signature="208:263" ph="{...}" />
+            <marker date="1564690603340" expanded="true" signature="485:594" ph="{...}" />
+            <marker date="1564690603340" expanded="true" signature="839:1047" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ACM.BL/Order.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="353">
+          <caret line="30" column="28" selection-start-line="30" selection-start-column="28" selection-end-line="30" selection-end-column="28" />
+          <folding>
+            <marker date="1564690755204" expanded="true" signature="6:66" ph="..." />
+            <marker date="1564690755204" expanded="true" signature="84:990" ph="{...}" />
+            <marker date="1564690755204" expanded="true" signature="132:988" ph="{...}" />
+            <marker date="1564690755204" expanded="true" signature="170:203" ph="{...}" />
+            <marker date="1564690755204" expanded="true" signature="238:337" ph="{...}" />
+            <marker date="1564690755204" expanded="true" signature="850:982" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Acme.Common/StringHandler.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="16" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="16" />
+          <folding>
+            <marker date="1564682194616" expanded="true" signature="36:814" ph="{...}" />
+            <marker date="1564682194616" expanded="true" signature="76:812" ph="{...}" />
+            <marker date="1564682194616" expanded="true" signature="91:267" ph="///     Inserts spaces before capital letters in a string ... " />
+            <marker date="1564682194616" expanded="true" signature="329:806" ph="{...}" />
+            <marker date="1564682194616" expanded="true" signature="433:761" ph="{...}" />
+            <marker date="1564682194616" expanded="true" signature="495:747" ph="{...}" />
+            <marker date="1564682194616" expanded="true" signature="559:690" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Acme.CommonTests/LoggingServiceTest.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="33" column="26" selection-start-line="33" selection-start-column="26" selection-end-line="33" selection-end-column="26" />
+          <folding>
+            <marker date="1564691364368" expanded="true" signature="6:89" ph="..." />
+            <marker date="1564691364368" expanded="true" signature="117:959" ph="{...}" />
+            <marker date="1564691364368" expanded="true" signature="173:957" ph="{...}" />
+            <marker date="1564691364368" expanded="true" signature="232:951" ph="{...}" />
+            <marker date="1564691364368" expanded="true" signature="375:550" ph="{...}" />
+            <marker date="1564691364368" expanded="true" signature="646:802" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Acme.Common/LoggingService.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+          <folding>
+            <marker date="1564690991420" expanded="true" signature="6:47" ph="..." />
+            <marker date="1564690991420" expanded="true" signature="70:328" ph="{...}" />
+            <marker date="1564690991420" expanded="true" signature="111:326" ph="{...}" />
+            <marker date="1564690991420" expanded="true" signature="184:320" ph="{...}" />
+            <marker date="1564690991420" expanded="true" signature="239:310" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ACM.BL/Customer.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="39" column="31" selection-start-line="39" selection-start-column="31" selection-end-line="39" selection-end-column="31" />
+          <folding>
+            <marker date="1564690575728" expanded="true" signature="6:66" ph="..." />
+            <marker date="1564690575728" expanded="true" signature="84:1700" ph="{...}" />
+            <marker date="1564690575728" expanded="true" signature="135:1698" ph="{...}" />
+            <marker date="1564690575728" expanded="true" signature="176:213" ph="{...}" />
+            <marker date="1564690575728" expanded="true" signature="254:358" ph="{...}" />
+            <marker date="1564690575728" expanded="true" signature="682:1111" ph="{...}" />
+            <marker date="1564690575728" expanded="true" signature="708:1101" ph="{...}" />
+            <marker date="1564690575728" expanded="true" signature="825:1053" ph="{...}" />
+            <marker date="1564690575728" expanded="true" signature="905:991" ph="{...}" />
+            <marker date="1564690575728" expanded="true" signature="1467:1692" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ACM.BL/EntityBase.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="53">
+          <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+          <folding>
+            <marker date="1564614204528" expanded="true" signature="16:385" ph="{...}" />
+            <marker date="1564614204528" expanded="true" signature="52:96" ph="{...}" />
+            <marker date="1564614204528" expanded="true" signature="133:383" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ACM.BL/CustomerRepository.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="30" column="8" selection-start-line="30" selection-start-column="8" selection-end-line="30" selection-end-column="8" />
+          <folding>
+            <marker date="1564609777056" expanded="true" signature="36:976" ph="{...}" />
+            <marker date="1564609777056" expanded="true" signature="74:974" ph="{...}" />
+            <marker date="1564609777056" expanded="true" signature="116:193" ph="{...}" />
+            <marker date="1564609777056" expanded="true" signature="308:830" ph="{...}" />
+            <marker date="1564609777056" expanded="true" signature="400:485" ph="/* Retreieve defined customer ... */" />
+            <marker date="1564609777056" expanded="true" signature="517:791" ph="{...}" />
+            <marker date="1564609777056" expanded="true" signature="875:968" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

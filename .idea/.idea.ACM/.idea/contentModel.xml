@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/.Rider2019.1/system/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/.Rider2019.1/system/resharper-host/local/Transient/ReSharperHost/v191/SolutionCaches/_ACM.56379714.00" t="ExcludeRecursive" />
+    <e p="$USER_HOME$/.nuget/packages/nunit3testadapter/3.11.0/build/netcoreapp1.0/NUnit3.TestAdapter.dll" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/nunit3testadapter/3.11.0/build/netcoreapp1.0/NUnit3.TestAdapter.pdb" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/nunit3testadapter/3.11.0/build/netcoreapp1.0/nunit.engine.netstandard.dll" t="Include" />
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="ACM.BL" t="IncludeRecursive">
+        <e p="ACM.BL.csproj" t="IncludeRecursive" />
+        <e p="Address.cs" t="Include" />
+        <e p="AddressRepository.cs" t="Include" />
+        <e p="Customer.cs" t="Include" />
+        <e p="CustomerRepository.cs" t="Include" />
+        <e p="EntityBase.cs" t="Include" />
+        <e p="Order.cs" t="Include" />
+        <e p="OrderItem.cs" t="Include" />
+        <e p="OrderRepository.cs" t="Include" />
+        <e p="Product.cs" t="Include" />
+        <e p="ProductRepository.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.2" t="Include">
+              <e p="ACM.BL.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="ACM.BL.Test" t="IncludeRecursive">
+        <e p="ACM.BL.Test.csproj" t="IncludeRecursive" />
+        <e p="CustomerRepositoryTest.cs" t="Include" />
+        <e p="CustomerTest.cs" t="Include" />
+        <e p="OrderRepositoryTest.cs" t="Include" />
+        <e p="ProductRepositoryTest.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.2" t="Include">
+              <e p="ACM.BL.Test.AssemblyInfo.cs" t="Include" />
+              <e p="ACM.BL.Test.Program.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="ACM.sln" t="IncludeFlat" />
+      <e p="Acme.Common" t="IncludeRecursive">
+        <e p="Acme.Common.csproj" t="IncludeRecursive" />
+        <e p="ILoggable.cs" t="Include" />
+        <e p="LoggingService.cs" t="Include" />
+        <e p="StringHandler.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.2" t="Include">
+              <e p="Acme.Common.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="Acme.CommonTests" t="IncludeRecursive">
+        <e p="Acme.CommonTests.csproj" t="IncludeRecursive" />
+        <e p="LoggingServiceTest.cs" t="Include" />
+        <e p="StringHandlerTest.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.2" t="Include">
+              <e p="Acme.CommonTests.AssemblyInfo.cs" t="Include" />
+              <e p="Acme.CommonTests.Program.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="Test" t="Include" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

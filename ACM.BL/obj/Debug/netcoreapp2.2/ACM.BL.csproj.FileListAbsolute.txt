@@ -1,0 +1,12 @@
+/home/rcart/RiderProjects/ACM/ACM.BL/bin/Debug/netcoreapp2.2/ACM.BL.deps.json
+/home/rcart/RiderProjects/ACM/ACM.BL/bin/Debug/netcoreapp2.2/ACM.BL.dll
+/home/rcart/RiderProjects/ACM/ACM.BL/bin/Debug/netcoreapp2.2/ACM.BL.pdb
+/home/rcart/RiderProjects/ACM/ACM.BL/obj/Debug/netcoreapp2.2/ACM.BL.csprojAssemblyReference.cache
+/home/rcart/RiderProjects/ACM/ACM.BL/obj/Debug/netcoreapp2.2/ACM.BL.csproj.CoreCompileInputs.cache
+/home/rcart/RiderProjects/ACM/ACM.BL/obj/Debug/netcoreapp2.2/ACM.BL.AssemblyInfoInputs.cache
+/home/rcart/RiderProjects/ACM/ACM.BL/obj/Debug/netcoreapp2.2/ACM.BL.AssemblyInfo.cs
+/home/rcart/RiderProjects/ACM/ACM.BL/obj/Debug/netcoreapp2.2/ACM.BL.dll
+/home/rcart/RiderProjects/ACM/ACM.BL/obj/Debug/netcoreapp2.2/ACM.BL.pdb
+/home/rcart/RiderProjects/ACM/ACM.BL/bin/Debug/netcoreapp2.2/Acme.Common.dll
+/home/rcart/RiderProjects/ACM/ACM.BL/bin/Debug/netcoreapp2.2/Acme.Common.pdb
+/home/rcart/RiderProjects/ACM/ACM.BL/obj/Debug/netcoreapp2.2/ACM.BL.csproj.CopyComplete
