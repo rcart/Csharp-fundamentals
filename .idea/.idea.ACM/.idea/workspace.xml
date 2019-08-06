@@ -4,29 +4,7 @@
     <bookmark url="file://$PROJECT_DIR$/ACM.BL/Customer.cs" line="10" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="915b579e-20af-4f10-9c66-6560bc19e11c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.ACM/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.ACM/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ACM.BL.Test/CustomerRepositoryTest.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ACM.BL.Test/CustomerTest.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ACM.BL.Test/OrderRepositoryTest.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ACM.BL.Test/ProductRepositoryTest.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ACM.BL/ACM.BL.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ACM.BL/Address.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ACM.BL/AddressRepository.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ACM.BL/Customer.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ACM.BL/CustomerRepository.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ACM.BL/EntityBase.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ACM.BL/Order.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ACM.BL/OrderItem.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ACM.BL/OrderRepository.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ACM.BL/Product.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ACM.BL/ProductRepository.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ACM.sln" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Acme.Common/ILoggable.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Acme.Common/LoggingService.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Acme.CommonTests/LoggingServiceTest.cs" afterDir="false" />
-    </list>
+    <list default="true" id="915b579e-20af-4f10-9c66-6560bc19e11c" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +15,74 @@
     <favorites_list name="ACM" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ACM.BL/EntityBase.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+              <folding>
+                <marker date="1564614204528" expanded="true" signature="16:385" ph="{...}" />
+                <marker date="1564614204528" expanded="true" signature="52:96" ph="{...}" />
+                <marker date="1564614204528" expanded="true" signature="133:383" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ACM.BL/Order.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="332">
+              <caret line="30" column="28" selection-start-line="30" selection-start-column="28" selection-end-line="30" selection-end-column="28" />
+              <folding>
+                <marker date="1564690755204" expanded="true" signature="6:66" ph="..." />
+                <marker date="1564690755204" expanded="true" signature="84:990" ph="{...}" />
+                <marker date="1564690755204" expanded="true" signature="132:988" ph="{...}" />
+                <marker date="1564690755204" expanded="true" signature="170:203" ph="{...}" />
+                <marker date="1564690755204" expanded="true" signature="238:337" ph="{...}" />
+                <marker date="1564690755204" expanded="true" signature="850:982" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ACM.BL/OrderItem.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="525">
+              <caret line="35" column="26" selection-start-line="35" selection-start-column="26" selection-end-line="35" selection-end-column="26" />
+              <folding>
+                <marker date="1564528489065" expanded="true" signature="16:835" ph="{...}" />
+                <marker date="1564528489065" expanded="true" signature="45:833" ph="{...}" />
+                <marker date="1564528489065" expanded="true" signature="78:111" ph="{...}" />
+                <marker date="1564528489065" expanded="true" signature="154:213" ph="{...}" />
+                <marker date="1564528489065" expanded="true" signature="433:489" ph="{...}" />
+                <marker date="1564528489065" expanded="true" signature="517:562" ph="{...}" />
+                <marker date="1564528489065" expanded="true" signature="594:827" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ACM.BL/OrderRepository.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="25" column="23" selection-start-line="25" selection-start-column="23" selection-end-line="25" selection-end-column="23" />
+              <folding>
+                <marker date="1564604390276" expanded="true" signature="31:717" ph="{...}" />
+                <marker date="1564604390276" expanded="true" signature="66:715" ph="{...}" />
+                <marker date="1564604390276" expanded="true" signature="115:603" ph="{...}" />
+                <marker date="1564604390276" expanded="true" signature="197:315" ph="/* Here I should cal the backend to retrieve the actual Order details ... */" />
+                <marker date="1564604390276" expanded="true" signature="346:566" ph="{...}" />
+                <marker date="1564604390276" expanded="true" signature="631:709" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -104,8 +149,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="FileSystemExplorer" />
       <pane id="AssemblyExplorer" />
+      <pane id="FileSystemExplorer" />
       <pane id="SolutionExplorer">
         <subPane>
           <expand>
@@ -116,23 +161,7 @@
             <path>
               <item name="" type="784c90a0:SolutionExplorerRootNode" />
               <item name="ACM" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Test" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="ACM" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Test" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Acme.CommonTests" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="ACM" type="24d0babc:SolutionExplorerModelNode" />
               <item name="ACM.BL" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="ACM" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Acme.Common" type="24d0babc:SolutionExplorerModelNode" />
             </path>
           </expand>
           <select />
@@ -175,11 +204,12 @@
       <workItem from="1564587962291" duration="12132000" />
       <workItem from="1564677887275" duration="4663000" />
       <workItem from="1564688372777" duration="3700000" />
+      <workItem from="1565126584876" duration="284000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33515000" />
+    <option name="totallyTimeSpent" value="33799000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -192,8 +222,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="16" width="1366" height="752" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4988662" visible="true" weight="0.17296073" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4988662" visible="true" weight="0.17522658" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" sideWeight="0.5011338" side_tool="true" weight="0.24773414" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -245,22 +276,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ACM.BL/OrderItem.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="35" column="26" selection-start-line="35" selection-start-column="26" selection-end-line="35" selection-end-column="26" />
-          <folding>
-            <marker date="1564528489065" expanded="true" signature="16:835" ph="{...}" />
-            <marker date="1564528489065" expanded="true" signature="45:833" ph="{...}" />
-            <marker date="1564528489065" expanded="true" signature="78:111" ph="{...}" />
-            <marker date="1564528489065" expanded="true" signature="154:213" ph="{...}" />
-            <marker date="1564528489065" expanded="true" signature="433:489" ph="{...}" />
-            <marker date="1564528489065" expanded="true" signature="517:562" ph="{...}" />
-            <marker date="1564528489065" expanded="true" signature="594:827" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ACM.BL.Test/CustomerTest.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -272,21 +287,6 @@
             <marker date="1564530850505" expanded="true" signature="842:1230" ph="{...}" />
             <marker date="1564530850505" expanded="true" signature="1282:1616" ph="{...}" />
             <marker date="1564530850505" expanded="true" signature="1669:1983" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ACM.BL/OrderRepository.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-          <folding>
-            <marker date="1564604390276" expanded="true" signature="31:717" ph="{...}" />
-            <marker date="1564604390276" expanded="true" signature="66:715" ph="{...}" />
-            <marker date="1564604390276" expanded="true" signature="115:603" ph="{...}" />
-            <marker date="1564604390276" expanded="true" signature="197:315" ph="/* Here I should cal the backend to retrieve the actual Order details ... */" />
-            <marker date="1564604390276" expanded="true" signature="346:566" ph="{...}" />
-            <marker date="1564604390276" expanded="true" signature="631:709" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -444,21 +444,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ACM.BL/Order.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="353">
-          <caret line="30" column="28" selection-start-line="30" selection-start-column="28" selection-end-line="30" selection-end-column="28" />
-          <folding>
-            <marker date="1564690755204" expanded="true" signature="6:66" ph="..." />
-            <marker date="1564690755204" expanded="true" signature="84:990" ph="{...}" />
-            <marker date="1564690755204" expanded="true" signature="132:988" ph="{...}" />
-            <marker date="1564690755204" expanded="true" signature="170:203" ph="{...}" />
-            <marker date="1564690755204" expanded="true" signature="238:337" ph="{...}" />
-            <marker date="1564690755204" expanded="true" signature="850:982" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Acme.Common/StringHandler.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
@@ -523,18 +508,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ACM.BL/EntityBase.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="53">
-          <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
-          <folding>
-            <marker date="1564614204528" expanded="true" signature="16:385" ph="{...}" />
-            <marker date="1564614204528" expanded="true" signature="52:96" ph="{...}" />
-            <marker date="1564614204528" expanded="true" signature="133:383" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ACM.BL/CustomerRepository.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -547,6 +520,64 @@
             <marker date="1564609777056" expanded="true" signature="400:485" ph="/* Retreieve defined customer ... */" />
             <marker date="1564609777056" expanded="true" signature="517:791" ph="{...}" />
             <marker date="1564609777056" expanded="true" signature="875:968" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ACM.BL/EntityBase.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+          <folding>
+            <marker date="1564614204528" expanded="true" signature="16:385" ph="{...}" />
+            <marker date="1564614204528" expanded="true" signature="52:96" ph="{...}" />
+            <marker date="1564614204528" expanded="true" signature="133:383" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ACM.BL/Order.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="332">
+          <caret line="30" column="28" selection-start-line="30" selection-start-column="28" selection-end-line="30" selection-end-column="28" />
+          <folding>
+            <marker date="1564690755204" expanded="true" signature="6:66" ph="..." />
+            <marker date="1564690755204" expanded="true" signature="84:990" ph="{...}" />
+            <marker date="1564690755204" expanded="true" signature="132:988" ph="{...}" />
+            <marker date="1564690755204" expanded="true" signature="170:203" ph="{...}" />
+            <marker date="1564690755204" expanded="true" signature="238:337" ph="{...}" />
+            <marker date="1564690755204" expanded="true" signature="850:982" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ACM.BL/OrderItem.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="35" column="26" selection-start-line="35" selection-start-column="26" selection-end-line="35" selection-end-column="26" />
+          <folding>
+            <marker date="1564528489065" expanded="true" signature="16:835" ph="{...}" />
+            <marker date="1564528489065" expanded="true" signature="45:833" ph="{...}" />
+            <marker date="1564528489065" expanded="true" signature="78:111" ph="{...}" />
+            <marker date="1564528489065" expanded="true" signature="154:213" ph="{...}" />
+            <marker date="1564528489065" expanded="true" signature="433:489" ph="{...}" />
+            <marker date="1564528489065" expanded="true" signature="517:562" ph="{...}" />
+            <marker date="1564528489065" expanded="true" signature="594:827" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ACM.BL/OrderRepository.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="23" selection-start-line="25" selection-start-column="23" selection-end-line="25" selection-end-column="23" />
+          <folding>
+            <marker date="1564604390276" expanded="true" signature="31:717" ph="{...}" />
+            <marker date="1564604390276" expanded="true" signature="66:715" ph="{...}" />
+            <marker date="1564604390276" expanded="true" signature="115:603" ph="{...}" />
+            <marker date="1564604390276" expanded="true" signature="197:315" ph="/* Here I should cal the backend to retrieve the actual Order details ... */" />
+            <marker date="1564604390276" expanded="true" signature="346:566" ph="{...}" />
+            <marker date="1564604390276" expanded="true" signature="631:709" ph="{...}" />
           </folding>
         </state>
       </provider>
